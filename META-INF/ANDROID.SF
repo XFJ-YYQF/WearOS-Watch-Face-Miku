@@ -1,0 +1,88 @@
+Signature-Version: 1.0
+Created-By: Android Gradle 8.0.2
+SHA-256-Digest-Manifest: ObTHDpq7HLNDxrZSZOGwJjTbQOvvU/ukA/TSH+A+vWk=
+X-Android-APK-Signed: 2
+
+Name: ANTISPLIT_BY_APKTOOL_M.txt
+SHA-256-Digest: 0g4MG5Pb1Bw50RI/Z46ys2RwdtPgHiV49KW1cnnOAps=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: /cK1XAjc9nKVOuqgRBfkB0UC9ClDJY2EN+kr6h/GrJ0=
+
+Name: META-INF/com/android/build/gradle/app-metadata.properties
+SHA-256-Digest: 0FOL+fr/8aZBEav/2wjEK6vVyEHG7SyqXRekTvG5poU=
+
+Name: META-INF/services/a8.j
+SHA-256-Digest: Z719X228E7pZ6083rpboOptW3a5AO0Aw//6SYQl7g/Y=
+
+Name: META-INF/services/kotlinx.coroutines.internal.i
+SHA-256-Digest: ArUxtIlSTPXqV+qQb4EQR/wklveDM9F2NCukqw8gBNI=
+
+Name: META-INF/services/s7.x
+SHA-256-Digest: iIC82KEQcHcplnSKGkWq8qaFftDXSBWpJgX2u79270s=
+
+Name: META-INF/services/t7.x
+SHA-256-Digest: b68ijnXXv4goAbvpSvmtJqr13+hNukB2J0lHQQpSCR0=
+
+Name: META-INF/services/u7.x
+SHA-256-Digest: tpoCSE4bJhvYd/8pD9r1Aw3InUQinPdQdEOqaWrfTqY=
+
+Name: META-INF/services/v7.x
+SHA-256-Digest: wFWWoaMzmqNEE8YGtEnE8D1H8czD8ijuhJpCOjBAWhI=
+
+Name: META-INF/services/w7.i
+SHA-256-Digest: FBhMJhLYqRDJLoTNH4CvRmI42EVmA4PcFbg8xPhOPmw=
+
+Name: META-INF/services/w7.x
+SHA-256-Digest: zWC1dzALi6YrCjDYD2wRxHyPiLyxLmHM7JSKxQIn9q4=
+
+Name: META-INF/services/x7.i
+SHA-256-Digest: +5912j2GCssB94kLog5tV9u6G/8BWrkMHWJDGyrXz7M=
+
+Name: META-INF/services/x7.x
+SHA-256-Digest: lHxNwDe1/tjKhyluaIl8MkaE8S7CalT8VPt4AJN5KH0=
+
+Name: META-INF/services/y7.i
+SHA-256-Digest: dkezEEppatzxTUI0/085AGRacfhU8Q9od9j46K7ifmc=
+
+Name: META-INF/services/z7.i
+SHA-256-Digest: fUmGnOF6dWDqcTgzBwOmCijgnkOTXIB48UCwyW0w5x0=
+
+Name: OpenSourceAnnouncement.txt
+SHA-256-Digest: LhPTEmw2ElE/2zYG9rBtErjJju22NgtbUh7yM+jhaQs=
+
+Name: classes.dex
+SHA-256-Digest: HaQm1GQgI2MNL9tpHzZCfO0PPo3uBw+JNjCz2mR9Ox0=
+
+Name: res/drawable-nodpi/preview.png
+SHA-256-Digest: rtn5OutsGXLwy/1DzBEGTpGepcNqGHICnp0EwkIQqLg=
+
+Name: res/drawable-nodpi/preview_circular.png
+SHA-256-Digest: rt1RfjUhjVEpe8t4qM+PjB+VePmndjPv3NETWqd6Jqk=
+
+Name: res/drawable-nodpi/wfs_1_e1fa9f38_9fbf_4eff_87ec_17419be20f75.pn
+ g
+SHA-256-Digest: njk2YeIIPxQP534JD68UD/kF5WVDK4tQhi44G1M/zp8=
+
+Name: res/drawable-nodpi/wfs_adjustmentcolor_1699022523081_b6be33ae_f2
+ 6b_420c_b7e5_055807215b44.png
+SHA-256-Digest: vxnCNmwQ5W04w2s06jAfY9YjMOYEBIPFNydDAcBeSYI=
+
+Name: res/raw/tutorial_swipe_back.json
+SHA-256-Digest: vUu/p/wUXyY7Cqu3uDaDROweM4ZzsJpCW+B+NV01Y2U=
+
+Name: res/raw/watchface.xml
+SHA-256-Digest: yeASz2Bcog/cZVp5bo74B56GV1ox/VgJTVOEU2AAo+c=
+
+Name: res/xml/watch_face.xml
+SHA-256-Digest: f4UrJR4pQbjUgJ3Hejxji+y4vka0BRRpfuQAk/xrGUg=
+
+Name: res/xml/watch_face_info.xml
+SHA-256-Digest: pAfFlXBsezU0JNY9lS55zwg1sYeLBYKFz+l7V5nGNuM=
+
+Name: res/xml/watch_face_shapes.xml
+SHA-256-Digest: PSiKp/x5v0Ao2KtbtfEmDxK9bPcYR6HiIKsW1Wv/oDs=
+
+Name: resources.arsc
+SHA-256-Digest: SXTQM9kAgvK/MHA3wEHj826fy574uPPGBEotBzxS6AI=
+
